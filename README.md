@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a medical data collection app at Computing ReApplied
+- 🔭 I’m currently working on a medical data collection app at Computing ReApplied => https://github.com/Computing-ReApplied
 - 🌱 I’m currently learning about the instersection of AI and Biology fields
 - 😄 I’m looking for new software work opportunities
 - 💬 Ask me about how it has been working on a Xamarin app
